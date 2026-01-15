@@ -7,10 +7,9 @@ Applying statistical and machine learning methods to solve complex, real-world p
 
 ## 🔍 About Me
 
-- **PhD:** Population Medicine  
-- **Field:** Epidemiology  
-- **Specialized In:** Statistics, Machine Learning, Deep Learning, Forecasting, Spatial Interpolation  
-- **Interested In:** Disease Surveillance, Explanatory AI, Causal Machine Learning, Physics-Informed Machine Learning, Translational Data Science  
+ **PhD in Population Medicine** — Field: Epidemiology
+- **Specialized In:** Statistics, Forecasting, Spatial Interpolation, Machine Learning and AI  
+- **Interested In:** Explanatory AI, Causal Machine Learning, Physics-Informed Machine Learning, Translational Data Science  
 
 ---
 
