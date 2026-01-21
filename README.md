@@ -27,7 +27,7 @@ Applying statistical and machine learning methods to solve complex, real-world p
 Explored a Physics-Informed Neural Network (PINN) and Sinusoidal Representation Networks (SIREN) on brain images from structura magnetic resonance imaging (MRI), benchmarking their performance on zero-filling.
 *(Add GitHub link here)*
 
-### 🧠 Multimodal AI for Geospatial Health  
+### 🌍 Multimodal AI for Geospatial Health  
 An open-data, multimodal AI framework that combines spatial epidemiology, satellite imagery, climate data, and social signals to model and forecast dengue spread using graph neural networks.
 *(Add GitHub link here)*
 
