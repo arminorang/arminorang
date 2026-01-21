@@ -23,8 +23,12 @@ Applying statistical and machine learning methods to solve complex, real-world p
 
 ## 🛠 Projects
 
-### 🧠 Physics-Informed Neural Networks
-Explored a Physics-Informed Neural Network (PINN) on the IXI dataset, comparing its performance against traditional zero-filling approaches for MRI reconstruction.
+### 🧠 MRI Reconstruction
+Explored a Physics-Informed Neural Network (PINN) and Sinusoidal Representation Networks (SIREN) on brain images from structura magnetic resonance imaging (MRI), benchmarking their performance on zero-filling.
+*(Add GitHub link here)*
+
+### 🧠 Multimodal AI for Geospatial Health  
+An open-data, multimodal AI framework that combines spatial epidemiology, satellite imagery, climate data, and social signals to model and forecast dengue spread using graph neural networks.
 *(Add GitHub link here)*
 
 ### 📚 Learning from Scratch
