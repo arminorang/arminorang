@@ -32,7 +32,7 @@ Explored a Physics-Informed Neural Network (PINN) and Sinusoidal Representation 
 An open-data, multimodal AI framework that combines spatial epidemiology, satellite imagery, climate data, and social signals to model and forecast dengue spread using graph neural networks.
 
 
-### 📚 Learning from Scratch
+### 📚 [Learning from Scratch](https://github.com/arminorang/Learning-from-scratch)
 Building ML/AI models from the ground up to understand core principles and improve generalization.  
 
 
