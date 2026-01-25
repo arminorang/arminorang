@@ -21,7 +21,7 @@ Applying statistical and machine learning methods to solve complex, real-world p
 
 ---
 
-## 🛠 Projects
+## 🛠 AI/ML Projects
 
 ### 🧠 [MRI Reconstruction](https://github.com/arminorang/MRI-Reconstruction)
 
