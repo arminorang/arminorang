@@ -23,17 +23,17 @@ Applying statistical and machine learning methods to solve complex, real-world p
 
 ## 🛠 Projects
 
-### 🧠 MRI Reconstruction
-Explored a Physics-Informed Neural Network (PINN) and Sinusoidal Representation Networks (SIREN) on brain images from structura magnetic resonance imaging (MRI), benchmarking their performance on zero-filling.
-*(https://github.com/arminorang/MRI-Reconstruction)*
+### 🧠 [MRI Reconstruction](https://github.com/arminorang/MRI-Reconstruction)
+
+Explored a Physics-Informed Neural Network (PINN) and Sinusoidal Representation Networks (SIREN) on brain images from structural magnetic resonance imaging (MRI), benchmarking their performance on zero-filling.
+
 
 ### 🌍 Multimodal AI for Geospatial Health  
 An open-data, multimodal AI framework that combines spatial epidemiology, satellite imagery, climate data, and social signals to model and forecast dengue spread using graph neural networks.
-*(Add GitHub link here)*
+
 
 ### 📚 Learning from Scratch
 Building ML/AI models from the ground up to understand core principles and improve generalization.  
-*(Add GitHub link here)*
 
 
 ---
