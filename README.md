@@ -8,8 +8,8 @@ Applying statistical and machine learning methods to solve complex, real-world p
 ## 🔍 About Me
 
  **PhD in Population Medicine** — Field: Epidemiology
-- **Specialized In:** Epidemiology, Time Seroes, Geospatial Health, and Machine Learning and AI  
-- **Interested In:** Multimodal AI, Computer Vision, Causal and Explanatory AI, and Translational Data Science  
+- **Specialized In:** Epidemiology, Time Series, Spatial Analysis, and Machine Learning and AI  
+- **Interested In:** Multimodal Analytics, Causal and Explanatory AI, Scientific Machine Learning, and Translational Data Science  
 
 ---
 
