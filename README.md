@@ -28,8 +28,8 @@ Applying statistical and machine learning methods to solve complex, real-world p
 Explored a Physics-Informed Neural Network (PINN) and Sinusoidal Representation Networks (SIREN) on brain images from structural magnetic resonance imaging (MRI), benchmarking their performance on zero-filling.
 
 
-### 🌍 Multimodal AI for Geospatial Health  
-An open-data, multimodal AI framework that combines spatial epidemiology, satellite imagery, climate data, and social signals to model and forecast dengue spread using graph neural networks (in progress).
+### 🌍 [Graph Neural Network for Geospatial Dengue Prediction](https://github.com/arminorang/Dengue-Forecasting)  
+Spatiotemporal forecasting dengue incidence in Brazilian Municipalities using a graph neural netework
 
 
 ### 📚 [Learning from Scratch](https://github.com/arminorang/Learning-from-scratch)
