@@ -28,7 +28,7 @@ Applying statistical and machine learning methods to solve complex, real-world p
 Explored a Physics-Informed Neural Network (PINN) and Sinusoidal Representation Networks (SIREN) on brain images from structural magnetic resonance imaging (MRI), benchmarking their performance on zero-filling.
 
 
-### 🌍 [Graph Neural Network for Geospatial Dengue Prediction](https://github.com/arminorang/Dengue-Forecasting)  
+### 🌍 [Spatiotemporal forecasting of Dengue incidence in Brazil](https://github.com/arminorang/Dengue-Forecasting)  
 Spatiotemporal forecasting dengue incidence in Brazilian Municipalities using a graph neural netework
 
 
